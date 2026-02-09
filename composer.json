@@ -1,6 +1,6 @@
 {
     "name": "juzaweb/pwa",
-    "description": "Pwa Module",
+    "description": "Progressive Web Application (PWA) for Juzaweb",
     "type": "juzaweb-module",
     "keywords": [],
     "license": "MIT",

@@ -1,6 +1,7 @@
 {
     "name": "Pwa",
     "alias": "pwa",
+    "title": "Progressive Web Application (PWA)",
     "description": "",
     "keywords": [],
     "priority": 0,
