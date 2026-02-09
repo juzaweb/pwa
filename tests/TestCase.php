@@ -91,7 +91,7 @@ abstract class TestCase extends Orchestra
     {
         return [
             CoreServiceProvider::class,
-            \$MODULE_NAMESPACE$\Pwa\Providers\PwaServiceProvider::class,
+            \Juzaweb\Modules\Pwa\Providers\PwaServiceProvider::class,
             \Juzaweb\QueryCache\QueryCacheServiceProvider::class,
             \Spatie\Activitylog\ActivitylogServiceProvider::class,
             \Juzaweb\Hooks\HooksServiceProvider::class,
